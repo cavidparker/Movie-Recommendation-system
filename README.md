@@ -1,5 +1,5 @@
 # Movie-Recommendation-system :
 
-## Live LINK : 
+## Live link : 
 - https://english-movie-recommendation.herokuapp.com/
 
